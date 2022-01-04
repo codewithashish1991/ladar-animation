@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>second_window.png</file>
+        <file>ship-front-vedio.mp4</file>
+    </qresource>
+</RCC>

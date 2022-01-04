@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/media"/>
+    <qresource prefix="/media/book">
+        <file>second_window.png</file>
+    </qresource>
+</RCC>
